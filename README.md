@@ -14,3 +14,7 @@ This project presents an interactive Tableau dashboard analyzing Netflix movies 
 
 ## Dashboard
 Netflix Movies and TV Shows Dashboard
+
+## Dashboard
+View interactive tableau dashboard
+https://public.tableau.com/app/profile/aishwarya.hegde3859/viz/tabluea_17944981362980/NetflixDashboard?publish=yes
